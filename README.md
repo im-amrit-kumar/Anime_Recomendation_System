@@ -1,4 +1,5 @@
-Anime Recommendation System 🎥📺
+#Anime Recommendation System 🎥📺
+
 This Anime Recommendation System leverages machine learning and data processing techniques to suggest anime based on user preferences. The project explores an anime dataset, cleans it, and applies recommendation algorithms to enhance user experience.
 
 📌 Features:
