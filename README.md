@@ -34,23 +34,16 @@ Matplotlib, Seaborn – Data visualization
 Scikit-learn – Machine learning algorithms
 
 🚀 How to Run:
-Clone the repository:
 
-bash
-Copy
-Edit
+Clone the repository:
 git clone https://github.com/yourusername/anime-recommendation.git
 cd anime-recommendation
+
 Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Open and run the Jupyter Notebook:
 
-bash
-Copy
-Edit
+Open and run the Jupyter Notebook:
 jupyter notebook Anime_Recommendation_System.ipynb
+
+
 Follow the steps in the notebook to process the dataset and generate recommendations!
